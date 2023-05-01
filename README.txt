@@ -4,3 +4,10 @@ Project Details:
 	>> Based on quadcopter technology 
 	>> 3D mapping is done using Photogrammetry
 	 
+Project Members:
+	>>Binay Kumar Sah 
+	>>Aman Ansari 
+	>>Amit Safi 
+	>>Karan Sunar 
+	>>Hasina Dhungel 
+	>> Darshan Gautam 
